@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-size: 40px;
+}
+button{
+    margin: 0 auto;
+    display:block;
+    border-radius: 10px;
+    background-color: bisque;
+    padding: 5px;
+    border-color: rgb(250, 220, 183);
+    margin-top: 50px
+}
